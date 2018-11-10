@@ -59,6 +59,7 @@ public class CronMethodParser {
     private static final MetadataReaderFactory metadataReaderFactory = new CachingMetadataReaderFactory(resourcePatternResolver);
 
     public static ClassMethodNamesPair findTargetMethodDetails(final String attributeValue) throws IOException {
+        System.out.println("-----------------" + attributeValue);
         if (!targetMethosMap.containsKey(attributeValue)) {
             findAnnotationMethods(CronTarget.class, CRON_ANNOTATION_ATTRIBUTE_NAME);
         }

@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="238af207-0da1-4bfe-876c-7ae7acb46528" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/fineract-provider/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/fineract-provider/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fineract-provider/properties/basicauth/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/fineract-provider/properties/basicauth/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fineract-provider/src/main/java/org/apache/fineract/infrastructure/core/boot/db/DataSourceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/fineract-provider/src/main/java/org/apache/fineract/infrastructure/core/boot/db/DataSourceConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fineract-provider/src/main/java/org/apache/fineract/infrastructure/core/boot/db/DataSourceProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/fineract-provider/src/main/java/org/apache/fineract/infrastructure/core/boot/db/DataSourceProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fineract-provider/src/main/java/org/apache/fineract/infrastructure/jobs/annotation/CronMethodParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/fineract-provider/src/main/java/org/apache/fineract/infrastructure/jobs/annotation/CronMethodParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fineract-provider/src/main/resources/META-INF/spring/jndi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fineract-provider/src/main/resources/META-INF/spring/jndi.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fineract-provider/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/fineract-provider/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fineract-provider/src/test/resources/META-INF/context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fineract-provider/src/test/resources/META-INF/context.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -73,7 +66,7 @@
         <counts>
           <entry key="gradle" value="55" />
           <entry key="java" value="83" />
-          <entry key="properties" value="12" />
+          <entry key="properties" value="13" />
           <entry key="xml" value="36" />
         </counts>
       </usages-collector>
@@ -81,7 +74,7 @@
         <counts>
           <entry key="Groovy" value="55" />
           <entry key="JAVA" value="83" />
-          <entry key="Properties" value="12" />
+          <entry key="Properties" value="13" />
           <entry key="XML" value="36" />
         </counts>
       </usages-collector>
@@ -139,8 +132,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fineract-provider/properties/basicauth/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+            <state relative-caret-position="336">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -551,7 +544,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541839878655" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541840722416" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/fineract-provider/build.gradle" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -580,15 +573,16 @@
       <updated>1541765581615</updated>
       <workItem from="1541765586557" duration="7132000" />
       <workItem from="1541830769809" duration="3980000" />
-      <workItem from="1541835355858" duration="4706000" />
+      <workItem from="1541835355858" duration="5092000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15818000" />
+    <option name="totallyTimeSpent" value="16204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23479189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -851,8 +845,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fineract-provider/properties/basicauth/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        <state relative-caret-position="336">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

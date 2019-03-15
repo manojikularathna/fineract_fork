@@ -1,0 +1,10 @@
+
+msquid:S2068)"Q'PWD' detected in this expression, review this potentially hard-coded credential.(Æâ²ûÿÿÿÿ
+osquid:ModifiersOrderCheck)"EReorder the modifiers to comply with the Java Language Specification.(Æâ²ûÿÿÿÿ
+jsquid:ModifiersOrderCheck&"EReorder the modifiers to comply with the Java Language Specification.(Õ˜„“
+osquid:ModifiersOrderCheck*"EReorder the modifiers to comply with the Java Language Specification.(×øÉÕùÿÿÿÿ
+jsquid:ModifiersOrderCheck("EReorder the modifiers to comply with the Java Language Specification.(–öœ
+jsquid:ModifiersOrderCheck'"EReorder the modifiers to comply with the Java Language Specification.(ğ©ùà
+jsquid:ModifiersOrderCheck%"EReorder the modifiers to comply with the Java Language Specification.(Íİ„Î
+vsquid:S1845."_Rename field "port" to prevent any misunderstanding/clash with field "PORT" defined on line 37.(šêî¨
+jsquid:ModifiersOrderCheck+"EReorder the modifiers to comply with the Java Language Specification.(´«å

@@ -313,9 +313,10 @@ if (!(project.hasProperty('env') && project.getProperty('env') == 'dev')) {
 sourceSets {
     main {
         java {
-            exclude '**/Server*'
+//            exclude '**/Server*'
             exclude '**/MariaDB4j*'
             exclude '**/EmbeddedTomcatWithSSLConfiguration.java'
+            exclude '**/ServerWithMariaDB4jApplication.java'
         }
     }
     test {
@@ -510,8 +511,8 @@ def qualifyVersionIfNecessary(version) {
 }
 
 springBoot {
-    mainClass = 'org.apache.fineract.ServerWithMariaDB4jApplication'
+    mainClass = 'org.apache.fineract.ServerApplication'
 }
 bootRepackage {
-    mainClass = 'org.apache.fineract.ServerWithMariaDB4jApplication'
+    mainClass = 'org.apache.fineract.ServerApplication'
 }

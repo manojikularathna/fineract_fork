@@ -1,0 +1,11 @@
+
+Zsquid:S00107}"=Method has 13 parameters, which is greater than 7 authorized.(×Ì¡ªûÿÿÿÿ
+]squid:S1192n"GDefine a constant instead of duplicating this literal "reject" 3 times.(È÷”
+\squid:S1192j"FDefine a constant instead of duplicating this literal "close" 3 times.(µ¨Ôv
+fsquid:S1192l"ODefine a constant instead of duplicating this literal "acceptTransfer" 3 times.(ªúØ
+Vsquid:S00107‰"=Method has 14 parameters, which is greater than 7 authorized.(þ¯Æ”
+_squid:S1192p"IDefine a constant instead of duplicating this literal "withdraw" 3 times.(î©¿.
+jsquid:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(·³áú
+[squid:S1155­">Use isEmpty() to check whether the collection is empty or not.(ÐÐüñÿÿÿÿÿ
+Xsquid:S00107M"AConstructor has 8 parameters, which is greater than 7 authorized.(¶Øí"
+jsquid:S00117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±—àŠ

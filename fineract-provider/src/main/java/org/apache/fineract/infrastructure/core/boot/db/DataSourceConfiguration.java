@@ -38,21 +38,21 @@ public class DataSourceConfiguration {
 	
 	@Autowired JDBCDriverConfig config ;
 	
-//    @Bean
-//    public DataSourceProperties dataSourceProperties() {
-//	return new DataSourceProperties(config.getDriverClassName(), config.getProtocol(), config.getSubProtocol(), config.getPort());
-//    }
+    @Bean
+    public DataSourceProperties dataSourceProperties() {
+	return new DataSourceProperties(config.getDriverClassName(), config.getProtocol(), config.getSubProtocol(), config.getPort());
+    }
 
-//    @Bean
-//    public DataSource tenantDataSourceJndi() {
-//        System.out.println("------------------- DS ---------- ");
-//	PoolConfiguration p = getProperties();
-//        org.apache.tomcat.jdbc.pool.DataSource ds = new org.apache.tomcat.jdbc.pool.DataSource(p);
-//        logger.info("Created new DataSource; url=" + p.getUrl());
-//        return ds;
-//    }
+    @Bean
+    public DataSource tenantDataSourceJndi() {
+        System.out.println("------------------- DS ---------- ");
+	PoolConfiguration p = getProperties();
+        org.apache.tomcat.jdbc.pool.DataSource ds = new org.apache.tomcat.jdbc.pool.DataSource(p);
+        logger.info("Created new DataSource; url=" + p.getUrl());
+        return ds;
+    }
 
-//    protected DataSourceProperties getProperties() {
-//        return dataSourceProperties();
-//    }
+    protected DataSourceProperties getProperties() {
+        return dataSourceProperties();
+    }
 }

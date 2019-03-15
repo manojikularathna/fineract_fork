@@ -3,12 +3,37 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/../../../calcey/mybudget/nextgen/ne-service/ne-query-service/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../calcey/mybudget/nextgen/ne-service/ne-query-service/src/main/java/com/mybudget/query/ne/service/data/dao/impl/ActivityDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../calcey/mybudget/nextgen/ne-service/ne-query-service/src/main/java/com/mybudget/query/ne/service/dto/activity/EnquiryActivitySearchRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../calcey/mybudget/nextgen/ne-service/ne-query-service/src/main/java/com/mybudget/query/ne/service/util/ActivityModelToDtoTransformer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/fineract-provider/build.gradle">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/fineract-provider/dependencies.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/fineract-provider/gradle.properties">
           <value>
             <set />
           </value>
@@ -84,6 +109,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/fineract-provider/src/main/webapp/META-INF/context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/fineract-provider/src/main/webapp/WEB-INF/web.xml">
           <value>
             <set />
           </value>
